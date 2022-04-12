@@ -3,7 +3,7 @@
 </h1>
 
 hello i am Lawns i have been dealing with software since 2018 i am 18 years old i am developing new projects
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
+ 
 
 
 <br>
