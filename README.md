@@ -17,7 +17,7 @@ hello i am Lawns i have been dealing with software since 2018 i am 18 years old 
 </p>
 
 ```python
-class AbhigyanTrips():
+class Lawnshere():
     
   def __init__(self):
     self.name = "Lawnshere";
